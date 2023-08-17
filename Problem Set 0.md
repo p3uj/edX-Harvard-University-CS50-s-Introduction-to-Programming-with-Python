@@ -57,3 +57,17 @@ Then, in that same file, implement a function called main that prompts the user 
 
 ## 3. MY SOLUTION
 - [Convert :) and :( to emoji.py](https://github.com/p3uj/edX-Harvard-University-CS50-s-Introduction-to-Programming-with-Python/blob/e6cb5745fb39544ac9f2f9b1b20a3c09d5266ddf/Problem%20Set%200/faces.py)
+
+
+# 4. Einstein
+## 4. STATEMENT
+### E = mc²
+#### Instruction
+Even if you haven’t studied physics (recently or ever!), you might have heard that **E = mc²**, wherein **E** represents energy (measured in Joules), **m** represents mass (measured in kilograms), and **c** represents the speed of light (measured approximately as 300000000 meters per second), per Albert Einstein et al. Essentially, the formula means that mass and energy are equivalent.
+
+In a file called einstein.py, implement a program in Python that prompts the user for mass as an integer (in kilograms) and then outputs the equivalent number of Joules as an integer. Assume that the user will input an integer.
+
+![Alt text](einstein.png)
+
+## 4. MY SOLUTION
+- [E = mc².py](https://github.com/p3uj/edX-Harvard-University-CS50-s-Introduction-to-Programming-with-Python/blob/d347207a17adfd70c1a0362ee104517d3f3f40ac/Problem%20Set%200/einstein.py)
