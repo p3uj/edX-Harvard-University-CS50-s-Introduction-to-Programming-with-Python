@@ -10,6 +10,12 @@
 - [3.Making Faces](#3making-faces)
   * [3. STATEMENT](#3-statement)
   * [3. MY SOLUTION](#3-my-solution)
+- [4. Einstein](#4-einstein)
+  * [4. STATEMENT](#4-statement)
+  * [4. MY SOLUTION](#4-my-solution)
+- [5. Tip Calculator](#5-tip-calculator)
+  * [5. STATEMENT](#5-statement)
+  * [5. MY SOLUTION](#5-my-solution)
 
 
 # 1. Indoor Voice
@@ -71,3 +77,28 @@ In a file called einstein.py, implement a program in Python that prompts the use
 
 ## 4. MY SOLUTION
 - [E = mc².py](https://github.com/p3uj/edX-Harvard-University-CS50-s-Introduction-to-Programming-with-Python/blob/d347207a17adfd70c1a0362ee104517d3f3f40ac/Problem%20Set%200/einstein.py)
+
+
+# 5. Tip Calculator
+## 5. STATEMENT
+### Calculate tip
+#### Instruction
+And now for my Wizard tip calculator.
+
+— Morty Seinfeld
+
+In the United States, it’s customary to leave a tip for your server after dining in a restaurant, typically an amount equal to 15% or more of your meal’s cost. Not to worry, though, we’ve written a tip calculator for you, below!
+
+
+![Alt text](givenCode-Tip.png)
+
+
+Well, we’ve written most of a tip calculator for you. Unfortunately, we didn’t have time to implement two functions:
+
+![Alt text](instruction-tip.png)
+Assume that the user will input values in the expected formats.
+
+![Alt text](tip-calculator.png)
+
+## 5. MY SOLUTION
+- [Calculate tip.py](https://github.com/p3uj/edX-Harvard-University-CS50-s-Introduction-to-Programming-with-Python/blob/ee5fb481ea04792de11692b829fc22ec6c015859/Problem%20Set%200/tip.py)
