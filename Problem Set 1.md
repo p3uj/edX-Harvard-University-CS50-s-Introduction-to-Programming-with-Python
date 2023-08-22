@@ -76,3 +76,24 @@ If the file’s name ends with some other suffix or has no suffix at all, output
 
 ## 3. MY SOLUTION
 - [Determine the file meadia type.py](https://github.com/p3uj/edX-Harvard-University-CS50-s-Introduction-to-Programming-with-Python/blob/0c9a8f9e1e0f5e5ecb0ccffdf8597f024af64890/Problem%20Set%201/extensions.py)
+
+
+# 4. Math Interpreter
+## 4. STATEMENT
+### Math Interpreter
+#### Instruction
+Python already supports math, whereby you can write code to add, subtract, multiply, or divide values and even variables. But let’s write a program that enables users to do math, even without knowing Python.
+
+In a file called **interpreter.py**, implement a program that prompts the user for an arithmetic expression and then calculates and outputs the result as a floating-point value formatted to one decimal place. Assume that the user’s input will be formatted as **x  y  z**, with one space between **x** and **y** and one space between **y** and **z**, wherein:
+- x is an integer
+- y is +, -, *, or /
+- z is an integer
+
+For instance, if the user inputs **1 + 1**, your program should output **2.0**. Assume that, if **y** is **/**, then **z** will not be 0.
+
+Note that, just as **python** itself is an interpreter for Python, so will your **interpreter.py** be an interpreter for math!
+
+![Alt text](<Problem Set 1/Images/math-Interpreter.png>)
+
+## 4. MY SOLUTION
+- [Math Interpreter.py](https://github.com/p3uj/edX-Harvard-University-CS50-s-Introduction-to-Programming-with-Python/blob/2a9ddbf37bf0e07b63f79d6cf698bc79662a0923/Problem%20Set%201/interpreter.py)
