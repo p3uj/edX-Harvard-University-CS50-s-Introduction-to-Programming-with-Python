@@ -7,6 +7,15 @@
 - [2. Home Federal Savings Bank](#2-home-federal-savings-bank)
   * [2. STATEMENT](#2-statement)
   * [2. MY SOLUTION](#2-my-solution)
+- [3. File Extensions](#3-file-extensions)
+  * [3. STATEMENT](#3-statement)
+  * [3. MY SOLUTION](#3-my-solution)
+- [4. Math Interpreter](#4-math-interpreter)
+  * [4. STATEMENT](#4-statement)
+  * [4. MY SOLUTION](#4-my-solution)
+- [5. Meal Time](#5-meal-time)
+  * [5. STATEMENT](#5-statement)
+  * [5. MY SOLUTION](#5-my-solution)
 
 
 # 1. Deep Thought
@@ -97,3 +106,22 @@ Note that, just as **python** itself is an interpreter for Python, so will your 
 
 ## 4. MY SOLUTION
 - [Math Interpreter.py](https://github.com/p3uj/edX-Harvard-University-CS50-s-Introduction-to-Programming-with-Python/blob/2a9ddbf37bf0e07b63f79d6cf698bc79662a0923/Problem%20Set%201/interpreter.py)
+
+
+# 5. Meal Time
+## 5. STATEMENT
+### String to float and output meal time
+#### Instruction
+Suppose that you’re in a country where it’s customary to eat breakfast between 7:00 and 8:00, lunch between 12:00 and 13:00, and dinner between 18:00 and 19:00. Wouldn’t it be nice if you had a program that could tell you what to eat when?
+
+In **meal.py**, implement a program that prompts the user for a time and outputs whether it’s **breakfast time**, **lunch time**, or **dinner time**. If it’s not time for a meal, don’t output anything at all. Assume that the user’s input will be formatted in 24-hour time as **#:##** or **##:##**. And assume that each meal’s time range is inclusive. For instance, whether it’s 7:00, 7:01, 7:59, or 8:00, or anytime in between, it’s time for breakfast.
+
+Structure your program per the below, wherein **convert** is a function (that can be called by **main**) that converts **time**, a **str** in 24-hour format, to the corresponding number of hours as a **float**. For instance, given a **time** like **"7:30"** (i.e., 7 hours and 30 minutes), **convert** should return **7.5** (i.e., 7.5 hours).
+![Alt text](<Problem Set 1/Images/givenCode-meal-time.png>)
+
+![Alt text](<Problem Set 1/Images/additional-meal-time.png>)
+
+![Alt text](<Problem Set 1/Images/meal-time.png>)
+
+## 5. MY SOLUTION
+- [String to float and output meal time.py](https://github.com/p3uj/edX-Harvard-University-CS50-s-Introduction-to-Programming-with-Python/blob/8bf96ff018418427e7ef7ec8d6131fe240b099ef/Problem%20Set%201/meal.py)
