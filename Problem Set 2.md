@@ -18,3 +18,17 @@ In a file called **camel.py**, implement a program that prompts the user for the
 
 ## 1. MY SOLUTION
 - [camelCase.py](https://github.com/p3uj/edX-Harvard-University-CS50-s-Introduction-to-Programming-with-Python/blob/3fbcd9c753005fbd37d5f9e8739dd690dba682f2/Problem%20Set%202/camel.py)
+
+
+# 2. Coke Machine
+## 2. STATEMENT
+### Coke Machine
+#### Instruction
+Suppose that a machine sells bottles of Coca-Cola (Coke) for 50 cents and only accepts coins in these denominations: 25 cents, 10 cents, and 5 cents.
+
+In a file called **coke.py**, implement a program that prompts the user to insert a coin, one at a time, each time informing the user of the amount due. Once the user has inputted at least 50 cents, output how many cents in change the user is owed. Assume that the user will only input integers, and ignore any integer that isn’t an accepted denomination.
+
+![Alt text](<Problem Set 2/Images/coke-machine.png>)
+
+## 2. MY SOLUTION
+- [Coke Machine.py](https://github.com/p3uj/edX-Harvard-University-CS50-s-Introduction-to-Programming-with-Python/blob/7f0296a6100e5d68330e1f7cae788d8411810c5a/Problem%20Set%202/coke.py)
