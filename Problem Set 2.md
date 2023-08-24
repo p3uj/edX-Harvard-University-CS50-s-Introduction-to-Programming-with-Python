@@ -32,3 +32,17 @@ In a file called **coke.py**, implement a program that prompts the user to inser
 
 ## 2. MY SOLUTION
 - [Coke Machine.py](https://github.com/p3uj/edX-Harvard-University-CS50-s-Introduction-to-Programming-with-Python/blob/7f0296a6100e5d68330e1f7cae788d8411810c5a/Problem%20Set%202/coke.py)
+
+
+# 3. Just setting up my twttr
+## 3. STATEMENT
+### Output removed all vowels in the string
+#### Instruction
+When texting or tweeting, it’s not uncommon to shorten words to save time or space, as by omitting vowels, much like Twitter was originally called twttr. 
+
+In a file called **twttr.py**, implement a program that prompts the user for a **str** of text and then outputs that same text but with all vowels (A, E, I, O, and U) omitted, whether inputted in uppercase or lowercase.
+
+![Alt text](<Problem Set 2/Images/twttr.png>)
+
+## 3. MY SOLUTION
+- [Output removed all vowels in the string.py](https://github.com/p3uj/edX-Harvard-University-CS50-s-Introduction-to-Programming-with-Python/blob/4ca974dcad1a22dc92c8af6f6a6a5814c782ba05/Problem%20Set%202/twttr.py)
