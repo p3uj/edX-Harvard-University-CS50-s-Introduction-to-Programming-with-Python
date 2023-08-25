@@ -1,6 +1,21 @@
 # Problem Set 2
 
 ##### TABLE OF CONTENTS
+- [1. camelCase](#1-camelcase)
+  * [1. STATEMENT](#1-statement)
+  * [1. MY SOLUTION](#1-my-solution)
+- [2. Coke Machine](#2-coke-machine)
+  * [2. STATEMENT](#2-statement)
+  * [2. MY SOLUTION](#2-my-solution)
+- [3. Just setting up my twttr](#3-just-setting-up-my-twttr)
+  * [3. STATEMENT](#3-statement)
+  * [3. MY SOLUTION](#3-my-solution)
+- [4. Vanity Plates](#4-vanity-plates)
+  * [4. STATEMENT](#4-statement)
+  * [4. MY SOLUTION](#4-my-solution)
+- [5. Nutrition Facts](#5-nutrition-facts)
+  * [5. STATEMENT](#5-statement)
+  * [5. MY SOLUTION](#5-my-solution)
 
 
 
@@ -64,7 +79,22 @@ In **plates.py**, implement a program that prompts the user for a vanity plate a
 ![Alt text](<Problem Set 2/Images/givenCode-Vanity-Plates.png>)
 
 **HERE'S HOW TO TEST YOUR CODE MANUALLY:**
+
 ![Alt text](<Problem Set 2/Images/testTheCode-Vanity-Plates.png>)
 
 ## 4. MY SOLUTION
 - [Output valid if all requirements met, else invalid.py](https://github.com/p3uj/edX-Harvard-University-CS50-s-Introduction-to-Programming-with-Python/blob/f70d00829dc9567ffaa585a2f6c7d4e5cbd50b9c/Problem%20Set%202/plates.py)
+
+
+# 5. Nutrition Facts
+## 5. STATEMENT
+### Nutrition Facts (using dict)
+#### Instruction
+The U.S. Food & Drug Adminstration (FDA) offers [downloadable/printable posters](https://www.fda.gov/food/food-labeling-nutrition/nutrition-information-raw-fruits-vegetables-and-fish) that “show nutrition information for the 20 most frequently consumed raw fruits … in the United States. Retail stores are welcome to download the posters, print, display and/or distribute them to consumers in close proximity to the relevant foods in the stores.”
+
+In a file called nutrition.py, implement a program that prompts consumers users to input a fruit (case-insensitively) and then outputs the number of calories in one portion of that fruit, per the [FDA’s poster for fruits](https://cs50.harvard.edu/python/2022/psets/2/nutrition/Nutrition-Information-for-Raw-Fruits---small-PDF-Poster.pdf), which is also [available as text](https://www.fda.gov/food/food-labeling-nutrition/raw-fruits-poster-text-version-accessible-version). Capitalization aside, assume that users will input fruits exactly as written in the poster (e.g., strawberries, not strawberry). Ignore any input that isn’t a fruit.
+
+![Alt text](<Problem Set 2/Images/nutrition-Facts.png>)
+
+## 5. MY SOLUTION
+- [Nutrition Facts (using dict).py](https://github.com/p3uj/edX-Harvard-University-CS50-s-Introduction-to-Programming-with-Python/blob/537da01128a0c85fc190dd8ececf45c893cddb27/Problem%20Set%202/nutrition.py)
