@@ -1,4 +1,4 @@
-# Problem Set 2
+# Problem Set 2 : Loops
 
 ##### TABLE OF CONTENTS
 - [1. camelCase](#1-camelcase)
