@@ -8,7 +8,7 @@ while changedOwed > 0:
         if changedOwed > 0:
             print(f"Amount Due: {changedOwed}")
     else:
-        print(f"Amount Due: 50")
+        print("Amount Due: 50")
 
 if changedOwed < 0:
     changedOwed = abs(changedOwed)  # If the changedOwed value is negative, then return absolute value of changedOwed (become positive).
