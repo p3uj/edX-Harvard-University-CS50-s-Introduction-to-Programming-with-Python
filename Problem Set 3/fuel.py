@@ -17,7 +17,7 @@ def compute():
             result = int(x) / int(y) * 100
             result = round(result)
         except (ValueError, ZeroDivisionError): # Execute this statement if the user input is not an integer.
-            pass
+            pass    # Does nothing.
         else:
             return result
 main()
