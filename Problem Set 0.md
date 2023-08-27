@@ -1,4 +1,4 @@
-# Problem Set 0
+# Problem Set 0 : Functions, Variables
 
 ##### TABLE OF CONTENTS
 - [1. Indoor Voice](#1-indoor-voice)
