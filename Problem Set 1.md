@@ -1,4 +1,4 @@
-# Problem Set 2
+# Problem Set 1 : Conditionals
 
 ##### TABLE OF CONTENTS
 - [1. Deep Thought](#1-deep-thought)
