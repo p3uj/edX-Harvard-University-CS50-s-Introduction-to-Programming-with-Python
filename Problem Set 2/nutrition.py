@@ -21,5 +21,5 @@ d = {
     "Tangerine": "50",
     "Watermelon": "80",
     }
-if userInput.title() in d:
+if userInput.title() in d:  # Check if the userInput(converted the first letter of each word to uppercase) is in the d 
     print("Calories:", d[userInput.title()])
