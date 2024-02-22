@@ -1,6 +1,15 @@
 # Problem Set 3 : Exceptions
 
 ##### TABLE OF CONTENTS
+- [1. Emojize](#1-emojize)
+  * [1. STATEMENT](#1-statement)
+  * [1. MY SOLUTION](#1-my-solution)
+- [2. Frank, Ian and Glen’s Letters](#2-frank--ian-and-glen-s-letters)
+  * [2. STATEMENT](#2-statement)
+  * [2. MY SOLUTION](#2-my-solution)
+- [3. Adieu, Adieu](#3-adieu--adieu)
+  * [3. STATEMENT](#3-statement)
+  * [3. MY SOLUTION](#3-my-solution)
 
 
 # 1. Emojize
