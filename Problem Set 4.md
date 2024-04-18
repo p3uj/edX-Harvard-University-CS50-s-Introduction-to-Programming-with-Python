@@ -53,3 +53,16 @@ In a file called emojize.py, implement a program that prompts the user for a str
 
 ## 3. MY SOLUTION
 - [adieu.py](https://github.com/p3uj/edX-Harvard-University-CS50-s-Introduction-to-Programming-with-Python/blob/4b713aeff451810121233073752871a35117258c/Problem%20Set%204/adieu.py)
+
+# 4. Guessing Game
+## 4. STATEMENT
+### Guessing Game
+#### Instruction
+![alt text](<Problem Set 4/Images/guessing_game_instruction.png>)
+
+**HERE'S HOW TO TEST YOUR CODE MANUALLY**
+![alt text](<Problem Set 4/Images/guessing_game_manual_test.png>)
+![alt text](<Problem Set 4/Images/guessing_game_manual_test2.png>)
+
+## 4. MY SOLUTION
+- [game.py](https://github.com/p3uj/edX-Harvard-University-CS50-s-Introduction-to-Programming-with-Python/blob/2b03b7b9b159e8098342573af97e576520a16846/Problem%20Set%204/game.py)
