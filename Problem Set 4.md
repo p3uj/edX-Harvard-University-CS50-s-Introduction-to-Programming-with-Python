@@ -10,6 +10,9 @@
 - [3. Adieu, Adieu](#3-adieu--adieu)
   * [3. STATEMENT](#3-statement)
   * [3. MY SOLUTION](#3-my-solution)
+- [4. Guessing Game](#4-guessing-game)
+  * [4. STATEMENT](#4-statement)
+  * [4. MY SOLUTION](#4-my-solution)
 
 
 # 1. Emojize
